@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendaDeCarrosFluentMap", "VendaDeCarrosFluentMap.csproj", "{E549877C-52EC-4761-994B-9FEBC2880131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E549877C-52EC-4761-994B-9FEBC2880131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E549877C-52EC-4761-994B-9FEBC2880131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E549877C-52EC-4761-994B-9FEBC2880131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E549877C-52EC-4761-994B-9FEBC2880131}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9A56AE4-954A-438A-BA66-7876F5289D9B}
+	EndGlobalSection
+EndGlobal
